@@ -1,0 +1,13 @@
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    background: -webkit-linear-gradient(pink, silver);
+}
+img{
+    border-radius: 50px;
+    width: 200px;
+    height: 200px;
+    
+
+}
