@@ -4,18 +4,21 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-ul { display: flex;
+ul {
+    display: flex;
     justify-content: space-between;
     list-style-type: none;
     align-items: center;
-  padding: 16px;
+    padding: 16px;
 
 }
+
 a {
-    color:rgb(250, 246, 243);
-text-decoration: none;
+    color: rgb(250, 246, 243);
+    text-decoration: none;
 
 }
+
 header img {
     width: 150px;
     height: 150px;
@@ -23,41 +26,51 @@ header img {
     border: 5px solid silver;
 
 }
+
 .center {
     text-align: center;
 
 }
-h1{
-    color:rgb(250, 246, 243);
-   
-    
+
+h1 {
+    color: rgb(250, 246, 243);
+
+
 }
-h2{
+
+h2 {
     color: silver
 }
+
 footer img {
 
     width: 40px;
     height: 40px;
 
-    border:3px solid rgb(122, 125, 129);
+    border: 3px solid rgb(122, 125, 129);
 }
-footer{
+
+footer {
 
     display: flex;
     justify-content: center;
 }
-footer a{
-    margin:20px;
+
+footer a {
+    margin: 20px;
     text-align: center;
 
 }
+
 footer p {
     margin-top: 2px;
 }
-.container {  padding: 0px 50px;
+
+.container {
+    padding: 0px 50px;
 
 }
+
 nav a:hover {
     color: rgb(64, 113, 133);
 }
